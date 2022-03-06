@@ -1,0 +1,7 @@
+C:\Users\jsmin\Desktop\Algorithm_Study_CSharp\Algorithm_Study_CSharp\bin\Debug\Algorithm_Study_CSharp.exe.config
+C:\Users\jsmin\Desktop\Algorithm_Study_CSharp\Algorithm_Study_CSharp\bin\Debug\Algorithm_Study_CSharp.exe
+C:\Users\jsmin\Desktop\Algorithm_Study_CSharp\Algorithm_Study_CSharp\bin\Debug\Algorithm_Study_CSharp.pdb
+C:\Users\jsmin\Desktop\Algorithm_Study_CSharp\Algorithm_Study_CSharp\obj\Debug\Algorithm_Study_CSharp.csproj.AssemblyReference.cache
+C:\Users\jsmin\Desktop\Algorithm_Study_CSharp\Algorithm_Study_CSharp\obj\Debug\Algorithm_Study_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\jsmin\Desktop\Algorithm_Study_CSharp\Algorithm_Study_CSharp\obj\Debug\Algorithm_Study_CSharp.exe
+C:\Users\jsmin\Desktop\Algorithm_Study_CSharp\Algorithm_Study_CSharp\obj\Debug\Algorithm_Study_CSharp.pdb
